@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="enna aachu" language="en" table="sn_anjana_app2_enna_aachu">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>enna aachu</label>
+            <language>en</language>
+            <name>sn_anjana_app2_enna_aachu</name>
+            <plural>enna aachus</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>anjana.krishnamurthi@snc</sys_created_by>
+            <sys_created_on>2020-02-12 19:24:47</sys_created_on>
+            <sys_id>372f732b1bbe0010580064a6bc4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>enna aachu</sys_name>
+            <sys_package display_value="ANJANA_APP2" source="sn_anjana_app2">c23f3874b71200104115e2b9de11a932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ANJANA_APP2">c23f3874b71200104115e2b9de11a932</sys_scope>
+            <sys_update_name>sys_documentation_sn_anjana_app2_enna_aachu__en</sys_update_name>
+            <sys_updated_by>anjana.krishnamurthi@snc</sys_updated_by>
+            <sys_updated_on>2020-02-12 19:24:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

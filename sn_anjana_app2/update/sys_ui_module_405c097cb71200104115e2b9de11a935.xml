@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="table1">9c350578b71200104115e2b9de11a941</application>
+        <application display_value="">9c350578b71200104115e2b9de11a941</application>
         <filter/>
         <name>table1s</name>
         <order/>
